@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="accc9961-7c6f-42de-ba77-7cc005dfe0ad" name="Changes" comment="" />
+    <list default="true" id="accc9961-7c6f-42de-ba77-7cc005dfe0ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +35,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/chaer/cherry/과제 진행하기",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "C:/Users/chaer/cherry",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,6 +92,10 @@
       <workItem from="1687707835655" duration="6393000" />
       <workItem from="1688305247421" duration="358000" />
       <workItem from="1688307075798" duration="5257000" />
+      <workItem from="1688639696994" duration="408000" />
+      <workItem from="1688726290818" duration="4099000" />
+      <workItem from="1688988118449" duration="210000" />
+      <workItem from="1689311152244" duration="1908000" />
     </task>
     <servers />
   </component>
