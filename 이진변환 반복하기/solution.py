@@ -9,6 +9,3 @@ def solution(s):
         if s == "1":
             break
     return [cnt, zero_cnt]
-
-
-print(solution("110010101001"))
