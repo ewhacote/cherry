@@ -6,14 +6,13 @@ def solution(expression):
     answer = 0
     ops = ["+", "*", "-"]
 
-
     li = []
     s = 0
     for i, z in enumerate(expression):
         if z in ["+", "*", "-"]:
             li.append(expression[s:i])
             li.append(z)
-            s=i+1
+            s = i + 1
     else:
         li.append(expression[s:])
 
